@@ -20,7 +20,7 @@ Proyectos que consumen APIs externas para mostrar datos dinámicos o interactuar
 Sitios estáticos con diseño limpio y enfoque visual.
 
 - [Landing SmartFit Gym](https://github.com/tuusuario/Landing-SmartFit-Gym)
-- [Landing Rick & Morty](https://github.com/tuusuario/landing-rick-morty) *(por subir)*
+- [Landing Rick & Morty](https://github.com/tuusuario/landing-rick-morty)
 
 ---
 
