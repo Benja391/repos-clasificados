@@ -32,7 +32,7 @@ Apps que no consumen APIs externas pero tienen funcionalidades propias como form
 - [App Gastos](https://github.com/tuusuario/App-Gastos)
 - [Nutricionista Gastos](https://github.com/tuusuario/nutricionista-gastos)
 - [GameStarting CoderHouse](https://github.com/tuusuario/GameStarting-CoderHouse)
-- [App Calorie](https://github.com/tuusuario/App-Calorie)
+- [App Calorix](https://github.com/tuusuario/App-Calorix)
 
 ---
 
